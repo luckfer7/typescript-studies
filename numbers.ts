@@ -3,4 +3,5 @@
 // userId.valueOf();
 
 let isLoggedIn: boolean = false;
-isLoggedIn.
+isLoggedIn
+export {}

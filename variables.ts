@@ -1,4 +1,4 @@
 let greetings: string = "hello, lucas";
-greetings = 6
+// greetings = 6
 console.log(greetings);
 export {}
